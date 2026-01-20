@@ -19,6 +19,8 @@
 2. JSONファイルをドラッグ&ドロップ
 3. 自動的に分析結果が表示されます
 
+> **Note**: 感想データのJSONファイルは [onclass-enhancer](https://github.com/atani/onclass-enhancer) を使って取得できます。
+
 ## 分析機能
 
 | 機能 | 説明 |
