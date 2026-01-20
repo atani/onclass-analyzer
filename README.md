@@ -52,6 +52,10 @@
 - 外部サーバーへのデータ送信は一切ありません
 - ページをリロードするとデータは消去されます
 
+## サポート
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github)](https://github.com/sponsors/atani)
+
 ## ライセンス
 
 MIT
